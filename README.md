@@ -1,1 +1,1 @@
-# Mini-Project-
+# Mini-Project-Electricity Bill Management System
